@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.3">
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/booking/dto/BookingState.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/booking/dto/BookItemRequestDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/booking/BookingClient.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/booking/BookingController.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/user/UserClient.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/user/dto/UserIdDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/user/dto/UserDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/user/UserValidator.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/user/UserController.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/request/dto/ResponseDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/request/dto/RequestDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/request/RequestClient.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/request/ItemRequestController.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/error/ErrorResponse.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/error/ValidateException.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/error/ErrorHandler.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/client/BaseClient.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/utils/AbstractValidator.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/item/dto/ItemRequestDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/item/dto/CommentRequestDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/item/dto/ShortBooking.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/item/dto/CommentResponseDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/item/dto/ItemResponseDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/item/ItemClient.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/item/ItemValidator.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/item/ItemController.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/java/ru/practicum/shareit/ShareItGateway.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/gateway/src/main/resources/application.properties">
+</file>
+</checkstyle>

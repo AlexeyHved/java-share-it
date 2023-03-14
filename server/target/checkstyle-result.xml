@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.3">
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/booking/dto/ShortBooking.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/booking/dto/BookingResponseDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/booking/dto/BookingRequestDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/booking/BookingService.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/booking/model/Booking.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/booking/BookingController.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/booking/BookingRepository.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/booking/BookingMapper.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/booking/Status.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/booking/BookingServiceImpl.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/booking/State.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/user/dto/UserIdDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/user/dto/UserDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/user/UserService.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/user/UserMapper.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/user/model/User.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/user/UserServiceImpl.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/user/UserController.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/user/UserRepository.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/ShareItServer.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/request/dto/ResponseDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/request/dto/RequestDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/request/RequestMapper.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/request/model/ItemRequest.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/request/RequestRepository.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/request/RequestServiceImpl.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/request/RequestService.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/request/ItemRequestController.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/error/ErrorResponse.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/error/ValidateException.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/error/ResourceAlreadyExistException.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/error/ResourceNotFoundException.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/error/BookingStatusException.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/error/ErrorHandler.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/dto/ItemRequestDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/dto/CommentRequestDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/dto/CommentResponseDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/dto/ItemResponseDto.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/ItemServiceImpl.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/ItemMapper.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/ItemController.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/CommentMapper.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/model/Comment.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/model/Item.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/CommentRepository.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/ItemService.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/java/ru/practicum/shareit/item/ItemRepository.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/target/generated-sources/annotations/ru/practicum/shareit/request/RequestMapperImpl.java">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/resources/application-my.properties">
+</file>
+<file name="/home/alexey/dev/java-shareit/server/src/main/resources/application.properties">
+</file>
+</checkstyle>
