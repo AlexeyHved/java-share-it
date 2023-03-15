@@ -5,3 +5,4 @@ Multi-module project runnning in 3 different containers:
 2. Main server is responsible for the business logic.
 3. Database server.
 ---
+![schema](https://github.com/AlexeyHved/java-share-it/blob/main/share-it-diagram.png)
